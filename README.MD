@@ -3,15 +3,15 @@ The purpose of this git repo is to learn how to work with Apache Beam and write 
 
 ## Installation requirements
 
-´´´
+```
 pip install apache_beam
-´´´
+```
 
 ## How to run
 
-´´´
+```
 python main.py --input data/count_words.txt --output data/words_counted.txt
-´´´
+```
 
 
 ## Sources
