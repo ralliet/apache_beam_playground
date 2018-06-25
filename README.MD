@@ -1,4 +1,5 @@
 # Playground Apache Beam
+
 The purpose of this git repo is to learn how to work with Apache Beam and write several kinds of pipelines.
 
 ## Installation requirements
