@@ -1,5 +1,5 @@
 .cache
-.pyc
+*.pyc
 .vscode
 .DS_Store
-/data/output
+/data/output/*
