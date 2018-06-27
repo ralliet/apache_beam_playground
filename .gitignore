@@ -1,1 +1,5 @@
-/data/words_counted.txt-00000-of-00001
+.cache
+.pyc
+.vscode
+.DS_Store
+/data/output
