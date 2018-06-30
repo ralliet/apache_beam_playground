@@ -2,4 +2,10 @@
 *.pyc
 .vscode
 .DS_Store
-/data/output/*
+
+
+# exclude everything out of 
+data/output*
+
+# exception to the rule to keep the directory "output"
+!data/output/.gitkeep 
