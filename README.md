@@ -1,4 +1,4 @@
-# Beam example
+# Beam playground
 
 The purpose of this git repo is to learn how to work with Apache Beam and test a few basic things.
 Everything runs locally. Maybe in the future connecting with google cloud platform.
