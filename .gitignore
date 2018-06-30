@@ -5,7 +5,7 @@
 
 
 # exclude everything out of 
-data/output*
+data/output/*
 
 # exception to the rule to keep the directory "output"
-!data/output/.gitkeep 
+!data/output/.keep 
