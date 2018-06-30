@@ -3,7 +3,6 @@
 .vscode
 .DS_Store
 
-
 # exclude everything out of 
 data/output/*
 
